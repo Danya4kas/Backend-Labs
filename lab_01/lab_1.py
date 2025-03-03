@@ -21,3 +21,6 @@ for num in array1:
     similarity_score += num * count
 
 print("Similarity score:", similarity_score)
+
+
+#Result: 1660292, extra_task = 22776016
